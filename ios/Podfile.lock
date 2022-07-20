@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - twilio_programmable_video (0.12.1):
+    - Flutter
+    - TwilioVideo (~> 4.6)
+  - TwilioVideo (4.6.3)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - twilio_programmable_video (from `.symlinks/plugins/twilio_programmable_video/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TwilioVideo
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  twilio_programmable_video:
+    :path: ".symlinks/plugins/twilio_programmable_video/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  twilio_programmable_video: 9a93b9e5bafa901e3e826c2d54b41a4376fa9f98
+  TwilioVideo: 4afaac028c5886f2f3b313a9fcc146a6b7ca34e2
+
+PODFILE CHECKSUM: 9f147b49747ee48d4650387f56a281755030a412
+
+COCOAPODS: 1.11.3
